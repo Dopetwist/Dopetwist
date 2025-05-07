@@ -9,7 +9,7 @@ I’m interested in both personal and professional growth for a fulfilling caree
 👨🏻‍💻 I’m currently learning React.js, Web3 and DApps development.
 -  I’m looking to collaborate with other developers in solving real world problems.
   
-- 📥 You can teach me on: jonathanafugwobi1@gmail.com
+- 📥 You can reach me on: jonathanafugwobi1@gmail.com
 
 <!---
 Dopetwist/Dopetwist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
