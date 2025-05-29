@@ -1,10 +1,10 @@
 ## 👋 Hello, I'm Jonathan Afugwobi.
 
-A Web Developer. I use modern Frontend and Backend Technologies to build seamless and dynamic web apps.
+I use modern Frontend and Backend Technologies to build seamless and dynamic web apps.
 
-- My current Technical expertise include; Node.js, Express.js, JavaScript, CSS, HTML, Bootstrap, RESTful APIs, PostgreSQL and more. 
+- My current Technical expertise include; Node.js, React.js, Express.js, JavaScript, CSS, HTML, Bootstrap, RESTful APIs, PostgreSQL and more. 
 
-👨🏻‍💻 I’m currently learning React.js, Web3 and DApps development.
+👨🏻‍💻 I’m currently learning Web3 and Blockchain development.
 
 -  I’m open to collaborate on projects in solving real world problems.
   
