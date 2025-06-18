@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Jonathan Afugwobi.
 
-I use modern Frontend and Backend Technologies to build seamless and dynamic web apps.
+A full stack developer. I use modern Frontend and Backend Technologies to build seamless and dynamic web apps.
 
 - My current Technical expertise include; Node.js, React.js, Express.js, JavaScript, CSS, HTML, Bootstrap, RESTful APIs, PostgreSQL and more. 
 
