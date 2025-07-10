@@ -2,7 +2,9 @@
 
 A full stack developer. I use modern Frontend and Backend Technologies to build seamless and dynamic web apps.
 
-- My current Technical expertise include; Node.js, React.js, Express.js, JavaScript, CSS, HTML, Bootstrap, RESTful APIs, PostgreSQL and more. 
+- My current expertise include;
+
+Node.js, React.js, Express.js, JavaScript, CSS, HTML, Bootstrap, RESTful APIs, PostgreSQL and more. 
 
 👨🏻‍💻 I’m currently learning Web3 and Blockchain development.
 
