@@ -8,6 +8,8 @@ Node.js, React.js, Express.js, JavaScript, CSS, HTML, Bootstrap, RESTful APIs, P
 
 👨🏻‍💻 I’m currently learning Web3 and Blockchain development.
 
+In my code-free time, i play Chess ♟️
+
 -  I’m open to collaborate on projects in solving real world problems.
   
 - 📥 You can reach me on: jonathanafugwobi1@gmail.com
