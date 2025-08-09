@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Jonathan Afugwobi.
+## 👋 Hello, I'm Jonathan
 
 I use modern Frontend and Backend Technologies to build seamless and dynamic web apps.
 
