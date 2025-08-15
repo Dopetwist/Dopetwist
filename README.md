@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Jonathan
 
-I use modern Frontend and Backend Technologies to build seamless and dynamic web apps.
+I use modern Frontend and Backend Technologies to build seamless and dynamic web experiences.
 
 - My current expertise include;
 
