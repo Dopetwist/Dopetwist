@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Jonathan
 
-I use modern Frontend and Backend Technologies to build seamless and dynamic web experiences.
+I have a great passion for using modern Frontend and Backend Technologies to build seamless and dynamic web experiences.
 
 - My current expertise include;
 
