@@ -4,7 +4,7 @@ I have a great passion for using modern Frontend and Backend Technologies to bui
 
 - My current expertise include;
 
-Node.js, React.js, Express.js, JavaScript, CSS, HTML, Bootstrap, RESTful APIs, PostgreSQL and more. 
+React.js, Node.js, Express.js, JavaScript, CSS, HTML, Bootstrap, RESTful APIs, PostgreSQL and more. 
 
 👨🏻‍💻 I’m currently learning Web3 and Blockchain development.
 
