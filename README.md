@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Jonathan
 
-I have a great passion for using modern Frontend and Backend Technologies to build seamless and dynamic web experiences.
+I'm a Full Stack developer using modern Frontend and Backend Technologies to build seamless and dynamic web experiences.
 
 - My current expertise include;
 
