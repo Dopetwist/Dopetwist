@@ -9,7 +9,7 @@ React.js, Node.js, Express.js, JavaScript, CSS, HTML, Bootstrap, RESTful APIs, P
 
 In my code-free time, i play Chess ♟️
 
--  I’m open to collaborate on projects in solving real world problems.
+-  I’m open to collaborate on projects in solving real world problems to improve my skills.
   
 - 📥 You can reach me on: jonathanafugwobi1@gmail.com
 
