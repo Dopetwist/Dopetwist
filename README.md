@@ -2,7 +2,7 @@
 
 I'm a Full Stack developer using modern Frontend and Backend Technologies to build seamless and dynamic web experiences.
 
-- My current expertise include;
+- Technologies i work with include;
 
 React.js, Node.js, Express.js, JavaScript, CSS, HTML, Bootstrap, RESTful APIs, PostgreSQL and more.  
 
