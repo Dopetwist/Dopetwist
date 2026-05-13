@@ -4,10 +4,10 @@ I'm a Full Stack developer using modern Frontend and Backend Technologies to bui
 
 - Technologies i work with include;
 
-React.js, Node.js, Express.js, JavaScript, CSS, HTML, Bootstrap, RESTful APIs, PostgreSQL and more.  
+React, Node.js, Express.js, JavaScript, CSS, HTML, Bootstrap, RESTful APIs, PostgreSQL and more.  
 
 
-In my code-free time, i play Chess ♟️
+In my code-free time, i play Chess ♟️ and surf the internet.
 
 -  I’m open to collaborate on projects in solving real world problems to improve my skills.
   
