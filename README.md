@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Jonathan
 
-I'm a Full Stack developer using modern Frontend and Backend Technologies to build seamless and dynamic web experiences.
+I'm a Full Stack Developer using modern Frontend and Backend Technologies to build dynamic web solutions and intuitive user experiences.
 
 - Technologies i work with include;
 
@@ -9,11 +9,11 @@ React, Node.js, Express.js, JavaScript, CSS, HTML, Bootstrap, RESTful APIs, Post
 
 In my code-free time, i play Chess ♟️ and surf the internet.
 
--  I’m open to collaborate on projects in solving real world problems to improve my skills.
+-  I’m open to collaborate on projects in solving real world problems to improve my skills professionally.
   
 - 📥 You can reach me on: jonathanafugwobi1@gmail.com
 
-  Let's build something great together!
+  Let's build amazing things together!
 
 <!---
 Dopetwist/Dopetwist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
