@@ -2,14 +2,14 @@
 
 I'm a Full Stack Developer using modern Frontend and Backend Technologies to build dynamic web solutions and intuitive user experiences.
 
-- Technologies i work with include;
+- Technologies i work with;
 
 React, Node.js, Express.js, JavaScript, CSS, HTML, Bootstrap, RESTful APIs, PostgreSQL and more.  
 
 
 In my code-free time, i play Chess ♟️ and surf the internet.
 
--  I’m open to collaborate on projects in solving real world problems to improve my skills professionally.
+-  I’m open to collaborations on projects in solving real world problems.
   
 - 📥 You can reach me on: jonathanafugwobi1@gmail.com
 
