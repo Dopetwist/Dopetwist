@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Jonathan
 
-I'm a Full Stack Developer using modern Frontend and Backend Technologies to build dynamic web solutions and intuitive user experiences.
+A Motivated Full Stack Developer using modern Frontend and Backend Technologies to build dynamic web solutions and intuitive user experiences.
 
 - Technologies i work with;
 
